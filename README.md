@@ -13,7 +13,8 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 - **Testing Tools:** Postman, TestRail, JIRA, Selenium (learning)
 - **Languages:** JavaScript (for Postman test scripts)
 - **Documentation:** Excel, Word, Confluence
-- **Version Control:** Git, GitHub
+- **Version Control Tool:** Git
+- **Platforms/Tools Supporting Git:** GitHub, GitHub Desktop
 
 ### 📝 My Recent Work
 - 🛠️ [API Testing with Postman](https://github.com/janedoe/api-testing-postman)
