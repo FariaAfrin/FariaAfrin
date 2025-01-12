@@ -6,6 +6,9 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 ### 📈 GitHub Stats
 ![FariaAfrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FariaAfrin&show_icons=true&theme=radical)
 
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaAfrin&layout=compact&theme=radical)
+
 - 🔭 I’m currently working on **manual testing and API testing projects.** 
 - 🌱 I’m learning **automated testing tools** like Selenium and Postman. **Postman Profile:** [Faria Afrin](https://www.postman.com/fariaafrin)
 - 📝 I write blog posts on software testing and QA. **Medium:** [Faria Afrin](https://medium.com/@faria-afrin)
