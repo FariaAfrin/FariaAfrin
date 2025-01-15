@@ -4,15 +4,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=Software+Quality+Assurance+Engineer;" alt="Typing Designation" /></a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p> -->
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=Profile%20views&color=0e75b6&style=flat" alt="Faria Afrin" /> </p>
-
+<!--
 <div align="center">
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=radipu&theme=juicyfresh&no-bg=true" />
-</div>
+</div> -->
 
 <br>
 <br>
