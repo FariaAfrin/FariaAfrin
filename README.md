@@ -1,5 +1,28 @@
 # Hi there 👋, I'm Faria Afrin!
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=Software+Engineer;.NET+Developer;Full+Stack+Web+and+Desktop+App+Developer;Designer;Freelancer;Author;Techie" alt="Typing Designation" /></a>
+</p>
+
+<p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=radipu&label=Profile%20views&color=0e75b6&style=flat" alt="radipu" /> </p>
+
+<div align="center">
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=radipu&theme=juicyfresh&no-bg=true" />
+</div>
+
+<br>
+<br>
+<br>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
+
 ### 👨‍💻 About Me
 I'm a passionate software tester with a keen eye for detail and a focus on ensuring high-quality software products. I have experience in manual and API testing, and I love diving deep into applications to find bugs and enhance user experience.
 
