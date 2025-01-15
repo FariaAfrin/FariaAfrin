@@ -7,7 +7,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p> -->
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=Profile%20views&color=0e75b6&style=flat" alt="Faria Afrin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=Profile%20Views&color=3c0061&style=flat" alt="Faria Afrin" /> </p>
 <!--
 <div align="center">
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
@@ -49,8 +49,9 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 - 🛠️ [API Testing with Postman](https://github.com/janedoe/api-testing-postman)
 - 🛠️ [E-commerce Website Testing Documentation](https://github.com/janedoe/ecommerce-testing-docs)
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 ![FariaAfrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FariaAfrin&show_icons=true&theme=radical)
+-->
 
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaAfrin&layout=compact&theme=radical)
@@ -59,3 +60,17 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 ### 📫 How to Reach Me
 - **LinkedIn:** [Faria Afrin](https://www.linkedin.com/in/fariaafrin/)
 - **Email:** [fariaafrin4897@gmail.com](mailto:fariaafrin4897@gmail.com)
+  <!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/radipu" target="blank"><img align="center" src="https://i.imgur.com/mVm29vK.png" alt="radipu" height="30" width="40" /></a>
+<a href="https://twitter.com/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radipu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radipu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10765904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10765904" height="30" width="40" /></a>
+<a href="https://fb.com/radipu.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radipu.13" height="30" width="40" /></a>
+<a href="https://instagram.com/radipu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radipu13" height="30" width="40" /></a>
+<a href="https://www.behance.net/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="radipu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="radipu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="radipu" height="30" width="40" /></a>
+</p>
+-->
