@@ -7,7 +7,14 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p> -->
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=Profile%20Views&color=3c0061&style=flat" alt="Faria Afrin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=Profile%20Views&color=#b069db&style=flat" alt="Faria Afrin" /> </p>
+
+<div align="center" style="font-family: Arial, sans-serif; padding: 10px; background-color: #f5f5f5; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="color: #b069db; margin-bottom: 10px;">Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=&color=b069db&style=flat-square" alt="Faria Afrin" />
+</div>
+
+
 <!--
 <div align="center">
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
