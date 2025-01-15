@@ -6,9 +6,8 @@
 
 <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p>
 
-<p align="center"><img src="https://drive.google.com/file/d/1a1XT9FqwyC9rt3JVYMbMCvf2GszvXO0S/view?usp=sharing" height="100" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=radipu&label=Profile%20views&color=0e75b6&style=flat" alt="radipu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=Profile%20views&color=0e75b6&style=flat" alt="Faria Afrin" /> </p>
 
 <div align="center">
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
@@ -20,7 +19,7 @@
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
