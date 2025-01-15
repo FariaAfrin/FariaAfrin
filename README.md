@@ -1,10 +1,12 @@
 # Hi there 👋, I'm Faria Afrin!
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=Software+Engineer;.NET+Developer;Full+Stack+Web+and+Desktop+App+Developer;Designer;Freelancer;Author;Techie" alt="Typing Designation" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=Software+Quality+Assurance+Engineer;" alt="Typing Designation" /></a>
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p>
+
+<p align="center"><img src="https://drive.google.com/file/d/1a1XT9FqwyC9rt3JVYMbMCvf2GszvXO0S/view?usp=sharing" height="100" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radipu&label=Profile%20views&color=0e75b6&style=flat" alt="radipu" /> </p>
 
