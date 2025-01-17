@@ -35,7 +35,7 @@
 ### 👨‍💻 About Me
 I'm a passionate software tester with a keen eye for detail and a focus on ensuring high-quality software products. I have experience in Manual Testing, Database Testing and API Testing, and I love diving deep into applications to find bugs and enhance user experience.
 
-- 🔭 I’m currently working on **API Automationtesting Projects.** 
+- 🔭 I’m currently working on **API Automation Testing Projects.** 
 - 🌱 I’m learning **automated testing tools** like Selenium and Postman. **Postman Profile:** [Faria Afrin](https://www.postman.com/fariaafrin)
 - 📝 I write blog posts on software testing and QA. **Medium:** [Faria Afrin](https://medium.com/@faria-afrin)
 - 💬 Ask me about **test case design, bug reporting, and exploratory testing.**
@@ -64,47 +64,23 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 - **LinkedIn:** [Faria Afrin](https://www.linkedin.com/in/fariaafrin/)
 - **Email:** [fariaafrin4897@gmail.com](mailto:fariaafrin4897@gmail.com)
 
+# My Social Media Links
 
- <div class="icon-row">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn">
-    </a>
-    <!-- YouTube -->
-    <a href="https://www.youtube.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube">
-    </a>
-    <!-- Gmail -->
-    <a href="mailto:your-email@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail">
-    </a>
-    <!-- Postman -->
-    <a href="https://www.postman.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman">
-    </a>
-    <!-- GitHub -->
-    <a href="https://github.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub">
-    </a>
-    <!-- ResearchGate -->
-    <a href="https://www.researchgate.net" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/researchgate.png" alt="ResearchGate">
-    </a>
-    <!-- Medium -->
-    <a href="https://medium.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium">
-    </a>
-    <!-- Google Scholar -->
-    <a href="https://scholar.google.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/google-scholar.png" alt="Google Scholar">
-    </a>
-    <!-- ORCID -->
-    <a href="https://orcid.org" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/orcid.png" alt="ORCID">
-    </a>
-    <!-- Facebook -->
-    <a href="https://www.facebook.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook">
-    </a>
-  </div>
+Here are my social media profiles:
+
+<a href="https://www.linkedin.com/in/your-profile">
+  <img src="icon/github.svg" alt="LinkedIn" width="40">
+</a>
+<a href="https://github.com/your-username">
+  <img src="icon/github.svg" alt="GitHub" width="40">
+</a>
+<a href="https://www.youtube.com/channel/your-channel">
+  <img src="icon/github.svg" alt="YouTube" width="40">
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="icon/github.svg" alt="Gmail" width="40">
+</a>
+<a href="https://www.postman.com">
+  <img src="icon/github.svg" alt="Postman" width="40">
+</a>
 
