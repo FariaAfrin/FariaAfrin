@@ -68,23 +68,15 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 
 Here are my social media profiles:
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none;">
   <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none;">
   <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
-  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
-</a>
-
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
-  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
-</a>
-
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none;">
   <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
 
