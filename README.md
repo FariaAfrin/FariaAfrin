@@ -60,14 +60,13 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaAfrin&layout=compact&theme=radical)
 
 
-### 📫 How to Reach Me
+<!--  ### 📫 How to Reach Me
 - **LinkedIn:** [Faria Afrin](https://www.linkedin.com/in/fariaafrin/)
-- **Email:** [fariaafrin4897@gmail.com](mailto:fariaafrin4897@gmail.com)
+- **Email:** [fariaafrin4897@gmail.com](mailto:fariaafrin4897@gmail.com) -->
 
-# My Social Media Links
 
-Here are my social media profiles:
-
+ ### 📫 How to Reach Me
+ 
 <a href="mailto:fariaafrin4897@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <img src="icon/gmail.gif" alt="Gmail" style="padding-right: 50px; width: 45px;">
 </a>
