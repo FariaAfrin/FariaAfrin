@@ -69,16 +69,16 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 Here are my social media profiles:
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/gmail.svg" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
+  <img src="icon/gmail.gif" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
 </a>
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/linkedin.svg" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
+  <img src="icon/linkedin.gif" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
 </a>
 
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
+  <img src="icon/github.gif" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
 </a>
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
@@ -94,16 +94,12 @@ Here are my social media profiles:
 </a>
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/medium.svg" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
-</a>
-
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <img src="icon/medium.gif" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
 </a>
 
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/youtube.svg" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
+  <img src="icon/youtube.gif" alt="LinkedIn" style="padding-right: 20px; width: 45px;">
 </a>
 
 
