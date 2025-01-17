@@ -68,42 +68,43 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 
 Here are my social media profiles:
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/gmail.gif" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="mailto:fariaafrin4897@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/gmail.gif" alt="Gmail" style="padding-right: 50px; width: 45px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+
+<a href="https://www.linkedin.com/in/fariaafrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <img src="icon/linkedin.gif" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
 </a>
 
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/github.gif" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="https://github.com/FariaAfrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/github.gif" alt="Github" style="padding-right: 50px; width: 45px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/postman.svg" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="https://www.postman.com/fariaafrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/postman.svg" alt="Postman" style="padding-right: 50px; width: 45px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/googleScholar.svg" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="https://scholar.google.com/citations?user=CTVC-IwAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/googleScholar.svg" alt="Google Scholar" style="padding-right: 50px; width: 45px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/researchgate.svg" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="https://www.researchgate.net/profile/Faria-Afrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/researchgate.svg" alt="Research Gate" style="padding-right: 50px; width: 45px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/orcid.svg" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="https://orcid.org/0000-0001-5603-8647" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/orcid.svg" alt="Orcid ID" style="padding-right: 50px; width: 45px;">
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/medium.gif" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="https://medium.com/@faria-afrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/medium.gif" alt="Medium" style="padding-right: 50px; width: 45px;">
 </a>
 
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/youtube.gif" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+<a href="https://www.youtube.com/@FariaAfrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/youtube.gif" alt="YouTube" style="padding-right: 50px; width: 45px;">
 </a>
 
 
