@@ -82,7 +82,7 @@ Here are my social media profiles:
 </a>
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/postman.gif" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
+  <img src="icon/postman.svg" alt="LinkedIn" style="padding-right: 50px; width: 45px;">
 </a>
 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
