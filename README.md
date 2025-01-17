@@ -65,3 +65,46 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 - **Email:** [fariaafrin4897@gmail.com](mailto:fariaafrin4897@gmail.com)
 
 
+ <div class="icon-row">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn">
+    </a>
+    <!-- YouTube -->
+    <a href="https://www.youtube.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube">
+    </a>
+    <!-- Gmail -->
+    <a href="mailto:your-email@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail">
+    </a>
+    <!-- Postman -->
+    <a href="https://www.postman.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman">
+    </a>
+    <!-- GitHub -->
+    <a href="https://github.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub">
+    </a>
+    <!-- ResearchGate -->
+    <a href="https://www.researchgate.net" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/researchgate.png" alt="ResearchGate">
+    </a>
+    <!-- Medium -->
+    <a href="https://medium.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium">
+    </a>
+    <!-- Google Scholar -->
+    <a href="https://scholar.google.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/google-scholar.png" alt="Google Scholar">
+    </a>
+    <!-- ORCID -->
+    <a href="https://orcid.org" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/orcid.png" alt="ORCID">
+    </a>
+    <!-- Facebook -->
+    <a href="https://www.facebook.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook">
+    </a>
+  </div>
+
