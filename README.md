@@ -68,19 +68,23 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
 
 Here are my social media profiles:
 
-<a href="https://www.linkedin.com/in/your-profile">
-  <img src="icon/github.svg" alt="LinkedIn" width="40">
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
-<a href="https://github.com/your-username">
-  <img src="icon/github.svg" alt="GitHub" width="40">
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
-<a href="https://www.youtube.com/channel/your-channel">
-  <img src="icon/github.svg" alt="YouTube" width="40">
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
-<a href="mailto:your-email@gmail.com">
-  <img src="icon/github.svg" alt="Gmail" width="40">
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
-<a href="https://www.postman.com">
-  <img src="icon/github.svg" alt="Postman" width="40">
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="icon/github.svg" alt="LinkedIn" style="padding-right: 10px; width: 40px;">
 </a>
 
