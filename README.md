@@ -6,10 +6,7 @@
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p> -->
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FariaAfrin&label=Profile%20Views&color=b069db&style=flat" alt="Faria Afrin" /> </p>
-
-
 
 <!--
 <div align="center">
@@ -29,53 +26,59 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" height="300" width="400">
 </div>
 
-
-
-
 ## 👨‍💻 About Me
-I'm a passionate software tester with a keen eye for detail and a focus on ensuring high-quality software products. I have experience in Manual Testing, Database Testing and API Testing, and I love diving deep into applications to find bugs and enhance user experience.
 
-- 🔭 I’m currently working on **API Automation Testing Projects.** 
-- 🌱 I’m learning **automated testing tools** like Selenium and Postman. **Postman Profile:** [Faria Afrin](https://www.postman.com/fariaafrin)
-- 📝 I write blog posts on software testing and QA. **Medium:** [Faria Afrin](https://medium.com/@faria-afrin)
-- 💬 Ask me about **test case design, bug reporting, and exploratory testing.**
+
+I'm a passionate **Software Quality Assurance Engineer** with a keen eye for detail and a focus on ensuring high-quality software products. I have experience in **Manual Testing, Database Testing and API Automation Testing**, and I love diving deep into applications to find bugs and enhance user experience. <br>
+<br>
+🏢 **Seeking Full-time Remote Opportunities:** I am actively seeking a full-time remote role as a Software Quality Assurance Engineer, where I can utilize my skills, make meaningful contributions to a dynamic team, and continue to grow professionally in a flexible and innovative setting.
+<br>
+<br>
+
+- 🔭 I’m currently working on **API Automation Testing Projects.** **[Postman Profile:** [Faria Afrin](https://www.postman.com/fariaafrin)]
+- 🌱 I’m learning **Automated Testing Tools** like Selenium and Postman.
+- 📝 I write blog posts on **Software Testing and QA on Medium.** **[Link:** [Faria Afrin](https://medium.com/@faria-afrin)]
+- 💬 Ask me about **Test Case Design, Bug Reporting, and Exploratory Testing.**
 - 💡 Fun Fact: I enjoy solving complex bugs and continuously improving software processes!
 
 ## 🛠️ Tools & Technologies
-- **Testing Tools:** Postman, TestRail, JIRA, Selenium (learning)
-- **Languages:** JavaScript (for Postman test scripts)
-- **Documentation:** Excel, Word, Confluence
-- **Version Control Tool:** Git
-- **Platforms/Tools Supporting Git:** GitHub, GitHub Desktop
 
-## 📝 My Recent Work
+- **Testing Tools:** Postman, Newman, JMeter, Selenium (learning)
+- **Languages:** Python, JavaScript, Java, C, PHP, SQL, HTML/CSS
+- **Frameworks:** Material-UI, WordPress, Bootstrap 
+- **Libraries:** ReactJS, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- **Design Tools:**  LaTeX, Adobe Photoshop, Adobe Illustrator
+- **Version Control:** Git
+- **Platforms Supporting Git:** GitHub, GitHub Desktop
+- **Project Management Tools:** Azure DevOps, JIRA
+
+<!-- ## 📝 My Recent Work
+
 - 🛠️ [API Testing with Postman](https://github.com/janedoe/api-testing-postman)
-- 🛠️ [E-commerce Website Testing Documentation](https://github.com/janedoe/ecommerce-testing-docs)
+- 🛠️ [E-commerce Website Testing Documentation](https://github.com/janedoe/ecommerce-testing-docs) -->
 
 <!-- ### 📈 GitHub Stats
 ![FariaAfrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FariaAfrin&show_icons=true&theme=radical)
 -->
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaAfrin&layout=compact&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaAfrin&layout=compact&theme=radical)
 
 <!--  ### 📫 How to Reach Me
 - **LinkedIn:** [Faria Afrin](https://www.linkedin.com/in/fariaafrin/)
 - **Email:** [fariaafrin4897@gmail.com](mailto:fariaafrin4897@gmail.com) -->
 
+<!-- ## 📫 How to Reach Me -->
+## 📫 Let's Connect
 
- ## 📫 How to Reach Me
- 
 <a href="mailto:fariaafrin4897@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <img src="icon/gmail.gif" alt="Gmail" style="padding-right: 40px; width: 35px;">
 </a>
 
-
 <a href="https://www.linkedin.com/in/fariaafrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <img src="icon/linkedin.gif" alt="LinkedIn" style="padding-right: 40px; width: 35px;">
 </a>
-
 
 <a href="https://github.com/FariaAfrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <img src="icon/github.gif" alt="Github" style="padding-right: 40px; width: 35px;">
@@ -101,9 +104,6 @@ I'm a passionate software tester with a keen eye for detail and a focus on ensur
   <img src="icon/medium.gif" alt="Medium" style="padding-right: 40px; width: 35px;">
 </a>
 
-
 <a href="https://www.youtube.com/@FariaAfrin" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <img src="icon/youtube.gif" alt="YouTube" style="padding-right: 40px; width: 35px;">
 </a>
-
-
