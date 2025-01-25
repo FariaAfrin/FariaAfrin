@@ -33,7 +33,9 @@
 
 I'm a passionate **Software Quality Assurance Engineer** with a keen eye for detail and a focus on ensuring high-quality software products. I have experience in **Manual Testing, Database Testing and API Automation Testing**, and I love diving deep into applications to find bugs and enhance user experience. <br>
 <br>
-➡️ **<span style="color:navy; background-color:lightblue;">`Seeking Full-time Remote Opportunities:`</span>** I am actively seeking a full-time remote role as a Software Quality Assurance Engineer, where I can utilize my skills, make meaningful contributions to a dynamic team, and continue to grow professionally in a flexible and innovative setting.
+
+> [!IMPORTANT]
+> ➡️ **<span style="color:navy; background-color:lightblue;">`Seeking Full-time Remote Opportunities:`</span>** I am actively seeking a full-time remote role as a Software Quality Assurance Engineer, where I can utilize my skills, make meaningful contributions to a dynamic team, and continue to grow professionally in a flexible and innovative setting.
 <br>
 <br>
 
